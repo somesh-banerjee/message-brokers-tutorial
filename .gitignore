@@ -1,0 +1,28 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Django development server pid
+*.pid
+
+# Logs
+log/
+*.log
+
+# SQLite database file
+*.sqlite3
+
+# Media files (uploads)
+media/
+
+# Compiled Python bytecode
+*.pyc
+
+# Ignore migration files unless you want to include them
+# Don't commit your database schema or data migrations
+**/migrations/
