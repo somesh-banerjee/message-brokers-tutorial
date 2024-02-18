@@ -26,3 +26,5 @@ media/
 # Ignore migration files unless you want to include them
 # Don't commit your database schema or data migrations
 **/migrations/
+
+node_modules/

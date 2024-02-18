@@ -1,0 +1,16 @@
+{
+  "name": "log-aggregator",
+  "version": "1.0.0",
+  "description": "A simple log aggregator that reads logs from kafka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Somesh Banerjee",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
